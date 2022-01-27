@@ -1,0 +1,56 @@
+1. Add Record
+2. List Records
+3. Delete Records
+4. Exit
+Your Choice: 1
+
+Enter name: Nikthesh
+
+Enter age: 1 20
+
+Enter basic salary: 500000 
+
+Add another record(y/n) y
+
+Enter name: Sai krishna
+
+Enter age: 40
+
+Enter basic salary: 60000
+
+Add another record(y/n) n
+1. Add Record
+2. List Records
+3. Delete Records
+4. Exit
+Your Choice: 2
+
+Nikthesh
+ 20
+ 50000.00
+
+Sai krishna
+ 40
+ 60000.00
+1. Add Record
+2. List Records
+3. Delete Records
+4. Exit
+Your Choice: 3
+
+Enter name of employee to delete: Sai Krishna^[[D^[[D^[[D^[[D^[[D                              k  i krishna
+Delete another record(y/n)n
+1. Add Record
+2. List Records
+3. Delete Records
+4. Exit
+Your Choice: 2
+
+Nikthesh
+ 20
+ 50000.00
+1. Add Record
+2. List Records
+3. Delete Records
+4. Exit
+Your Choice: 
